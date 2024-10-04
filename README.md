@@ -1,4 +1,4 @@
-[SS](https://github.com/user-attachments/assets/91f96da1-b8b6-4eb0-9d75-570580f2d87f)
+(https://github.com/user-attachments/assets/91f96da1-b8b6-4eb0-9d75-570580f2d87f)
 Read with Create React App
 
 ## Available Scripts
